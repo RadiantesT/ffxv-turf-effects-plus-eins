@@ -1,0 +1,78 @@
+<!DOCTYPE NvParameters>
+<NvParameters numObjects="1" version="1.0">
+	<value name="" type="Ref" className="GrassAssetDescriptor" version="1.0" checksum="0xff6e997d 0x982d0a89 0xe61e25ba 0xc4407b32">
+		<struct name="">
+			<value name="densityClampNear" type="F32">40</value>
+			<value name="densityClampFar" type="F32">400</value>
+			<value name="densityFalloffPow" type="F32">3.5</value>
+			<value name="densityCompensationMax" type="F32">1.0</value>
+			<value name="descreteLODsNum" type="U32">32</value>
+			<value name="smoothnessClampNear" type="F32">0</value>
+			<value name="smoothnessClampFar" type="F32">50</value>
+			<value name="smoothnessFalloffPow" type="F32">3</value>
+			<value name="tessellationLevelNear" type="F32">16</value>
+			<value name="tessellationLevelFar" type="F32">8</value>
+			<value name="bladeWidth" type="F32">0.008</value>
+			<value name="bladeWidthNoise" type="F32">0.5</value>
+			<value name="bladeHeightNoise" type="F32">0.45</value>
+			<value name="bladeScaleFalloff" type="F32">0.5</value>
+			<value name="widthScaleNear" type="Vec4">0.5 1 1 0</value>
+			<value name="widthScaleFar" type="Vec4">0.5 1 1 0</value>
+			<value name="edgeOffsetNear" type="Vec4">0 0 0 0</value>
+			<value name="edgeOffsetFar" type="Vec4">0 0 0 0</value>
+			<value name="edgeOffsetMin" type="F32">0.00400000019</value>
+			<value name="proceduralCurvatureScale" type="F32">2.0</value>
+			<value name="proceduralCurvatureFrequency" type="F32">2.0</value>
+			<value name="heightfieldAlignment" type="F32">0.7</value>
+			<value name="bendingScale" type="F32">0.2</value>
+			<value name="bladeMass" type="F32">0.005</value>
+			<value name="bladeHardness" type="F32">1.0</value>
+			<value name="bladeStretching" type="F32">0.1</value>
+			<value name="collisionResponseMin" type="F32">2.0</value>
+			<value name="collisionResponseMax" type="F32">2.4</value>
+			<value name="velocityDrag" type="F32">0.25</value>
+			<value name="dampingHorizontal" type="F32">0.05</value>
+			<value name="dampingVertical" type="F32">0.04</value>
+			<value name="deformationPersistency" type="F32">60</value>
+			<value name="numBladeInstances" type="U32">16</value>
+			<value name="numBladePoints" type="U32">2</value>
+			<array name="controlPoints" size="32" type="Vec3">
+        0.125469223 2.01806712 0, 0.915425539 2.56966591 0.340037346,
+        0.304952383 1.53815567 0, 2.14889598 2.60139012 0.986419201,
+        0.19029054 2.68262291 0, 1.75604272 1.90545368 -0.784020543,
+        0.130619228 0.955656588 0, 1.17729735 1.08145392 -1.33640552,
+        0.495696902 1.75280762 0, 1.17432177 0.760506034 -1.9643544,
+        0.266705066 1.94624162 0, 1.62348163 2.10396886 0.428663015,
+        0.187337875 2.24185133 0, 1.36352122 1.54227591 -1.77184367,
+        0.3528817 2.51246691 0, 2.05679107 1.91973639 -0.792199492,
+        0.45348978 2.38502145 0, 2.38734102 2.83286548 0.157414436,
+        0.178376883 1.78968179 0, 1.03136921 2.69003868 -1.16159558,
+        0.417371124 2.64822078 0, 2.41256428 2.99931335 0.445997477,
+        0.272164077 1.34897923 0, 1.21808529 2.64032412 -1.90502644,
+        0.265949726 0.95840323 0, 1.78175831 0.876483917 -1.96484268,
+        0.469546318 1.37074649 0, 1.37889099 2.07279444 0.764732838,
+        0.43910414 2.38460946 0, 1.66651273 1.21205783 0.974944353,
+        0.300672174 1.78041172 0, 2.22440624 2.42498541 -1.5668813
+			</array>
+			<value name="color" type="Vec4">0.06,0.07,0.03,1</value>
+			<value name="colorMid" type="Vec4">0.082,0.077,0.034,0.6</value>
+			<value name="colorTail" type="Vec4">0.082,0.083,0.045,0.4</value>
+			<value name="materialParameters" type="Vec4">0.152,0.22,0.063,0.1</value>
+			<value name="materialParametersMid" type="Vec4">0.18,0.20,0.03,0.6</value>
+			<value name="materialParametersTail" type="Vec4">0.18,0.2,0.03,1</value>
+			<value name="materialBlendCenterPoint" type="F32">0.5</value>
+			<value name="globalYBlendWeight" type="F32">2.4</value>
+			<value name="tangentBlendWeight" type="F32">0.0</value>
+			<value name="binormalBlendWeight" type="F32">-0.4</value>
+			<value name="expansionMin" type="U32">80</value>
+			<value name="expansionMax" type="U32">80</value>
+			<value name="placementRadiusMin" type="F32">0.2</value>
+			<value name="placementRadiusMax" type="F32">0.2</value>
+			<value name="bunchingMin" type="F32">0.6</value>
+			<value name="bunchingMax" type="F32">0.8</value>
+			<value name="iCustom0" type="U32">1</value>
+			<value name="iCustom1" type="U32">1</value>
+			<value name="fCustom0" type="F32">0.05</value>
+		</struct>
+	</value>
+</NvParameters>
