@@ -12,7 +12,7 @@
 			<value name="smoothnessFalloffPow" type="F32">3</value>
 			<value name="tessellationLevelNear" type="F32">16</value>
 			<value name="tessellationLevelFar" type="F32">8</value>
-			<value name="bladeWidth" type="F32">0.012</value>
+			<value name="bladeWidth" type="F32">0.018</value>
 			<value name="bladeWidthNoise" type="F32">0.5</value>
 			<value name="bladeHeightNoise" type="F32">0.45</value>
 			<value name="bladeScaleFalloff" type="F32">0.5</value>
@@ -24,16 +24,16 @@
 			<value name="proceduralCurvatureScale" type="F32">1.5</value>
 			<value name="proceduralCurvatureFrequency" type="F32">2.0</value>
 			<value name="heightfieldAlignment" type="F32">0.7</value>
-			<value name="bendingScale" type="F32">0.2</value>
+			<value name="bendingScale" type="F32">0.3</value>
 			<value name="bladeMass" type="F32">0.015</value>
 			<value name="bladeHardness" type="F32">0.75</value>
 			<value name="bladeStretching" type="F32">0.1</value>
 			<value name="collisionResponseMin" type="F32">2.2</value>
 			<value name="collisionResponseMax" type="F32">2.4</value>
-			<value name="velocityDrag" type="F32">0.25</value>
+			<value name="velocityDrag" type="F32">0.5</value>
 			<value name="dampingHorizontal" type="F32">0.05</value>
 			<value name="dampingVertical" type="F32">0.04</value>
-			<value name="deformationPersistency" type="F32">60</value>
+			<value name="deformationPersistency" type="F32">180</value>
 			<value name="numBladeInstances" type="U32">16</value>
 			<value name="numBladePoints" type="U32">2</value>
 			<array name="controlPoints" size="32" type="Vec3">
