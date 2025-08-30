@@ -57,7 +57,7 @@
 			<value name="color" type="Vec4">0.06,0.07,0.03,1</value>
 			<value name="colorMid" type="Vec4">0.085,0.109,0.038,0.6</value>
 			<value name="colorTail" type="Vec4">0.098,0.103,0.032,0.4</value>
-			<value name="materialParameters" type="Vec4">0.5,0.7,0.2,0</value>
+			<value name="materialParameters" type="Vec4">0.746,1,0.223,0.15</value>
 			<value name="materialParametersMid" type="Vec4">0.18,0.20,0.03,0.6</value>
 			<value name="materialParametersTail" type="Vec4">0.18,0.20,0.03,1</value>
 			<value name="materialBlendCenterPoint" type="F32">0.75</value>
