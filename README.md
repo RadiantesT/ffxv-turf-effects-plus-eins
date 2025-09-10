@@ -5,11 +5,14 @@
 - improved far distance detail
 - stronger grass reaction to actors and wind + persistence
 - higher grass density
+- changed reaction to light
 
 ## Changelog
 
+### 1.3.2509.0
+- added missing Comrades Turf Effects		 							 
 ### 1.2.2508.0
-- added quasi specular
+- added specular-like
 ### 1.1.2508.0
 - physics rework
 - stronger reaction to wind
@@ -23,3 +26,7 @@
 - mesh improvement at high distances - higher polycount (for photos)
 - longer deform duration
 - longer deformation duration
+
+## TODO
+- find better fitting style for Comrades Turf
+- EPP
