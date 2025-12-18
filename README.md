@@ -9,6 +9,9 @@
 
 ## Changelog
 
+### 1.4.2512.0
+- changed Comrades grass colors
+- added EPP grass
 ### 1.3.2509.0
 - added missing Comrades Turf Effects		 							 
 ### 1.2.2508.0
@@ -24,9 +27,8 @@
 - optimized lod while same performance
 - more distant visibility
 - mesh improvement at high distances - higher polycount (for photos)
-- longer deform duration
 - longer deformation duration
 
 ## TODO
-- find better fitting style for Comrades Turf
-- EPP
+- try out some cool colors for Comrades Turf
+- EPP maybe optimizing?

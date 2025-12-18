@@ -54,9 +54,9 @@
         0.43910414 1.78460946 0, 1.66651273 1.21205783 0.974944353,
         0.300672174 1.78041172 0, 1.6440624 1.42498541 -1.5668813
 			</array>
-			<value name="color" type="Vec4">0.10, 0.1, 0.04, 0.5</value>
-			<value name="colorMid" type="Vec4">0.08, 0.09, 0.03, 0.5</value>
-			<value name="colorTail" type="Vec4">0.12, 0.12, 0.04, 0.5</value>
+			<value name="color" type="Vec4">0.14,0.05,0.05,0.5</value>
+			<value name="colorMid" type="Vec4">0.18,0.08,0.055,0.5</value>
+			<value name="colorTail" type="Vec4">0.27,0.15,0.13,0.5</value>
 			<value name="materialParameters" type="Vec4">0.18, 0.16, 0.05, 0.2</value>
 			<value name="materialBlendCenterPoint" type="F32">0.5</value>
 			<value name="globalYBlendWeight" type="F32">1.4</value>
